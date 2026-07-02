@@ -9,7 +9,7 @@ RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
    :glob:
    :caption: CÁCH CHỮA RÒ HẬU MÔN TẠI NHÀ
 
-   ro-hau-mon-tai-nha
+   cach-chua-ro-hau-mon-tai-nha
    
 .. image:: /img/viem-manh-trang-la-gi.jpg
 
