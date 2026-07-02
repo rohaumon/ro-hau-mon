@@ -2,14 +2,14 @@
 RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 ======================================================
 
-.. _rohaumon:
+.. _rohaumontainha:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
+   :caption: CÁCH CHỮA RÒ HẬU MÔN TẠI NHÀ
 
-   ro-hau-mon
+   ro-hau-mon-tai-nha
    
 .. image:: /img/viem-manh-trang-la-gi.jpg
 
