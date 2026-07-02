@@ -2,7 +2,7 @@
 RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 ======================================================
 
-.. _rohaumontainha:
+.. _cachchuaruhaumontainha:
 
 .. toctree::
    :maxdepth: 2
