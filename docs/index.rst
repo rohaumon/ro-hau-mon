@@ -1,3 +1,19 @@
+======================================================
+RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
+======================================================
+
+.. _rohaumon:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
+
+   ro-hau-mon
+   
+.. image:: /img/viem-manh-trang-la-gi.jpg
+
+
 
 ======================================================
 VIÊM MANH TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
