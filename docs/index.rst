@@ -1,3 +1,34 @@
+======================================================
+RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
+======================================================
+
+.. _cachchuaruhaumontainha:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: CÁCH CHỮA RÒ HẬU MÔN TẠI NHÀ
+
+   cach-chua-ro-hau-mon-tai-nha
+   
+.. image:: /img/viem-manh-trang-la-gi.jpg
+
+======================================================
+ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG PHẪU THUẬT
+======================================================
+
+.. _dieutrirohaumonkhongphauthuat:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG PHẪU THUẬT
+
+   dieu-tri-ro-hau-mon-khong-phau-thuat
+   
+.. image:: /img/viem-manh-trang-la-gi.jpg
+
+
 
 ======================================================
 VIÊM MANH TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
