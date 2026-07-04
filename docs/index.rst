@@ -1,5 +1,5 @@
 ======================================================
-RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
+RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC TẠI NHÀ
 ======================================================
 
 .. _cachchuaruhaumontainha:
@@ -11,10 +11,10 @@ RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 
    cach-chua-ro-hau-mon-tai-nha
    
-.. image:: /img/viem-manh-trang-la-gi.jpg
+.. image:: /img/cach-chua-ro-hau-mon-tai-nha.jpg
 
 ======================================================
-ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG PHẪU THUẬT
+ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG CẦN PHẪU THUẬT
 ======================================================
 
 .. _dieutrirohaumonkhongphauthuat:
@@ -22,11 +22,17 @@ RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG PHẪU THUẬT
+   :caption: ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG CẦN PHẪU THUẬT
 
    dieu-tri-ro-hau-mon-khong-phau-thuat
    
-.. image:: /img/viem-manh-trang-la-gi.jpg
+.. image:: /img/ro-hau-mon-khong-phau-thuat.jpg
+
+
+
+
+
+
 
 
 
