@@ -17,6 +17,9 @@ CÁCH CHỮA RÒ HẬU MÔN TẠI NHÀ
    
 .. image:: /img/cach-chua-ro-hau-mon-tai-nha.jpg
 
+***************************************************
+ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG CẦN PHẪU THUẬT
+***************************************************
 
 .. _dieutrirohaumonkhongphauthuat:
 
