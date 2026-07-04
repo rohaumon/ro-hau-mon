@@ -2,6 +2,10 @@
 RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC TẠI NHÀ
 ======================================================
 
+***************************************************
+CÁCH CHỮA RÒ HẬU MÔN TẠI NHÀ
+***************************************************
+
 .. _cachchuaruhaumontainha:
 
 .. toctree::
@@ -13,9 +17,6 @@ RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC TẠI NHÀ
    
 .. image:: /img/cach-chua-ro-hau-mon-tai-nha.jpg
 
-======================================================
-ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG CẦN PHẪU THUẬT
-======================================================
 
 .. _dieutrirohaumonkhongphauthuat:
 
@@ -29,16 +30,6 @@ RÒ HẬU MÔN, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC TẠI NHÀ
 .. image:: /img/ro-hau-mon-khong-phau-thuat.jpg
 
 
-
-
-
-
-
-
-
-======================================================
-VIÊM MANH TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
-======================================================
 
 .. _viemmanhtrang:
 
@@ -94,4 +85,3 @@ VIÊM MANH TRÀNG, NGUYÊN NHÂN, CÁCH CHỮA BẰNG THẢO DƯỢC
 .. image:: /img/mot-so-san-pham-cua-thao-moc-hht.jpg
     :alt: "mot so san pham cua thao moc hht"
     :align: center
-
