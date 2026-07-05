@@ -1,8 +1,11 @@
 ================================================
 CÁCH CHỮA RÒ HẬU MÔN TẠI NHÀ
 ================================================
+Ban đầu bạn sẽ thấy đau phía ngoài hậu môn, có thể sờ thấy sưng, đau, có thể gây sốt, sau đó thì sẽ thấy dịch chảy ra, lỗ chảy dịch ra đó chính là 
+rò hậu môn. Để gây ra rò hậu môn thường xảy ra 3 quá trình, đầu tiên là tắc tuyến nhờn, sau đó là áp xe, có thể gây sưng đau, hoặc gây sốt, sau khi
+áp xe vỡ ra thì tạo ra lỗ rò, và dịch chảy ra.
 Rò hậu môn hiểu đơn giản là một lỗ rò ra ngoài ống hậu môn hay lỗ hậu môn, lỗ rò thường xảy ra sau khi bị áp xe, hoặc sau khi 
-phẫu thuật vùng hậu môn.
+phẫu thuật vùng hậu môn. 
 Rò hậu môn có thể lựa chọn dùng thảo dược hay cây cỏ hoặc kết hợp vừa phẫu thuật vừa dùng thảo dược. 
 Tôi xin kể ra đây một số trường hợp mà tôi đã chữa thành công để các bạn tham khảo
 
