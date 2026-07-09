@@ -75,7 +75,6 @@ Phần ở cuối sẽ có đoạn nói về một người kiên trì điều t
 Ở đây anh Cường mới dùng 02 gói mà chứng bệnh rò hậu môn đã được loại bỏ. Để minh chứng cho việc này là ảnh chụp phản hồi của khách hàng
 các bạn có thể tham khảo thêm ở dưới
 
-
 .. image:: /img/khach-hang-cuong-truong-1.jpg
    :alt: "khach-hang-cuong-truong-1"
    :align: center
@@ -135,6 +134,7 @@ Dưới đây là ảnh chụp phản hồi của người dùng thảo dược 
 Một khách hàng tên là Quang Hoàn cũng dùng 1 gói thảo dược thấy có chuyển biến nên yên tâm dùng thêm.
 
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
+
 .. image:: /img/quang-hoan-2.jpg
    :alt: "phan-hoi-quang-hoan"
    :align: center
@@ -145,6 +145,7 @@ Dưới đây là ảnh chụp phản hồi của người dùng thảo dược 
 Anh Sơn đặt 02 gói thảo dược, sau một thời gian sử dụng thì thấy giảm cân, và vết rò không thấy còn bị ngứa
 
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
+
 .. image:: /img/thanh-son-3.jpg
    :alt: "phan-hoi-thanh-son"
    :align: center
@@ -156,6 +157,7 @@ Dưới đây là ảnh chụp phản hồi của người dùng thảo dược 
 Anh Hòa sau một thời gian sử dụng thì thấy có tác dụng 
 
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
+
 .. image:: /img/vinh-hoa-1.jpg
    :alt: "phan-hoi-vinh-hoa"
    :align: center
@@ -170,6 +172,7 @@ Có một số người may mắn hay hợp với thảo dược dùng 1 đến 
 Với thảo dược chữa rò hậu môn này có đặc điểm đó là thải độc nên sẽ gây đi ngoài lỏng cho người dùng. Nhưng cũng có người dùng ít thì chỉ dễ đi ngoài thôi.
 
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
+
 .. image:: /img/anh-khai-1.jpg
    :alt: "phan-hoi-vinh-hoa"
    :align: center
