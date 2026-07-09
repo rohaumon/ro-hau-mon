@@ -33,30 +33,26 @@ các bạn có thể tham khảo thêm ở dưới
    :align: center
 
 **************************************************************
-2.Video:`Phản hồi của khách hàng sau khi dùng thảo dược <https://www.youtube.com/embed/BNaPcP2WjaY?si=8CAcWTywjPYWgq_J>`_
+2.Video:`Phản hồi của khách hàng sau khi dùng thảo dược <https://www.youtube.com/embed/BNaPcP2WjaY?si=aRPs3IHcsweT7cd_>`_
 **************************************************************
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
     
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/BNaPcP2WjaY?si=8CAcWTywjPYWgq_J" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/BNaPcP2WjaY?si=aRPs3IHcsweT7cd_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     </div>
 
 
-2.Video:`Rò hậu môn - Phản hổi khách hàng <https://www.youtube.com/watch?v=ZXxsuIyh9WU>`_
+2.Video:`Rò hậu môn - Cách chữa bằng thảo dược <https://www.youtube.com/embed/SONGhTiG25A?si=wg5yQD7CvxTB_KKH>`_
 **************************************************************
-
-.. raw:: html
-
-    <div style="text-align: center; margin-bottom: 2em;">
     
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
     
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXxsuIyh9WU?si=oILQEprwhaS62v0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SONGhTiG25A?si=wg5yQD7CvxTB_KKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
     </div>
 
