@@ -33,6 +33,18 @@ các bạn có thể tham khảo thêm ở dưới
    :align: center
 
 **************************************************************
+2.Video:`Phản hồi của khách hàng sau khi dùng thảo dược <https://www.youtube.com/embed/BNaPcP2WjaY?si=8CAcWTywjPYWgq_J>`_
+**************************************************************
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/BNaPcP2WjaY?si=8CAcWTywjPYWgq_J" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    </div>
+
+
 2.Video:`Rò hậu môn - Phản hổi khách hàng <https://www.youtube.com/watch?v=ZXxsuIyh9WU>`_
 **************************************************************
 
@@ -40,23 +52,6 @@ các bạn có thể tham khảo thêm ở dưới
 
     <div style="text-align: center; margin-bottom: 2em;">
     
-        < <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXxsuIyh9WU?si=oILQEprwhaS62v0O" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
-    </div>
-
-
-    .. raw:: html
-
-    <div style="text-align: center; margin-bottom: 2em;">
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/AcK3egOcAh4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    </div>
-
-
-2.Video:`Rò hậu môn - Phản hổi khách hàng <https://www.youtube.com/watch?v=ZXxsuIyh9WU>`_
-**************************************************************
-
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
@@ -82,7 +77,6 @@ Tôi có để ảnh chụp ở phía dưới quý khách có thể tham khảo
 .. image:: /img/kh-phong-van-3.png
    :alt: "khach-hang-cuong-truong-1"
    :align: center
-
 
 
 *****************************
@@ -131,7 +125,7 @@ Dưới đây là ảnh chụp phản hồi của người dùng thảo dược 
    :align: center
 
 ***************************************
-8. Phản hồi từ một khách hàng kiên trì nhất mà tôi biểt anh Khải
+9. Phản hồi từ một khách hàng kiên trì nhất mà tôi biểt anh Khải
 ***************************************
 Anh Khải là một trong một số người chịu khó dùng thảo dược của chúng tôi nhất, tại thời điểm viết bài anh đã dùng đến gói thứ 10. 
 Với thảo dược mọi người sử dụng đều muốn tác dụng nhanh, nhưng đâu có biết thảo dược với từng người có nhanh có chậm khác nhau.
@@ -140,19 +134,23 @@ Có một số người may mắn hay hợp với thảo dược dùng 1 đến 
 Với thảo dược chữa rò hậu môn này có đặc điểm đó là thải độc nên sẽ gây đi ngoài lỏng cho người dùng. Nhưng cũng có người dùng ít thì chỉ dễ đi ngoài thôi.
 
 
-Đúng là tùy 
-Bản thân tôi cũng dùng nhiều 
-
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
-.. image:: /img/vinh-hoa-1.jpg
+.. image:: /img/anh-khai-1.jpg
    :alt: "phan-hoi-vinh-hoa"
    :align: center
 
+.. image:: /img/anh-khai-2.jpg
+   :alt: "phan-hoi-vinh-hoa"
+   :align: center
 
-Để biết các thông tin chi tiết hơn về mật kỳ đà mời các bạn xem bài viết tại đây: 
+.. image:: /img/anh-khai-3.jpg
+   :alt: "phan-hoi-vinh-hoa"
+   :align: center
 
-+ `Mật kỳ đà <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da.html>`_
+Để biết các thông tin chi tiết hơn về rò hậu môn mời các bạn xem tại đây
 
-Mật kỳ đà có nhiều tác dụng ngoài tác dụng chữa Bệnh hen phế quản, hen suyễn, mật kỳ đà còn có tác dụng chữa bệnh động kinh. Mời các bạn xem bài viết tại đây:
++ `Rò hậu môn <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da.html>`_
 
-+ `mật kỳ đà chữa bệnh động kinh <https://mat-ky-da.readthedocs.io/en/latest/mat-ky-da-chua-benh-dong-kinh.html>`_
+Các bạn quan tâm đến các sản phẩm thảo dược khác mời các bạn xem tại đây
+
++ `Thảo mộc hht <https://hahuytoai.com/>`_
